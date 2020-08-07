@@ -1,10 +1,11 @@
 .center .column {
   text-align: center;
+  color: white;
   font-family: arial;;
 }
 
 .center .column h1 {
-  text-decoration: underline;
+  font-weight: bolder;
 }
 
 .center .column p {
