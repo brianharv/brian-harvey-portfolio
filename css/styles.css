@@ -30,6 +30,10 @@
   font-weight: normal;
 }
 
+.work em {
+  font-weight: lighter;
+}
+
 .contact {
   text-align:center;
   font-family: sans-serif;
