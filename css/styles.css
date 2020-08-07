@@ -1,0 +1,12 @@
+.column {
+  text-align: center;
+  font-family: arial;
+  font-weight: bold;
+}
+.column h1 {
+  text-decoration: underline;
+}
+.column p {
+  font-weight: normal;
+  font-style: italic;
+}
