@@ -54,10 +54,11 @@
 
 .jumbotron h1 {
   font-size: 5rem;
-  font-weight: 800;
+  padding: 0rem 0rem;
+  margin-bottom: 1rem;
 }
 
 .jumbotron p {
-  font-size: 2rem;
-  font-weight: 800;
+  font-size: 3rem;
+  padding: 0rem 0rem;
 }
