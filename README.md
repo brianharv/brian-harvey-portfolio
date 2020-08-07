@@ -8,6 +8,11 @@
 
 _This is the landing page for my Epicodus portfolio. Users will be able to view a brief personal profile and navigate to GitHub to view my completed projects._
 
+## Technology Used
+
+* _HTML_
+* _CSS_
+* _Bootstrap_
 ## Setup
 
 * _Open index.html in browser_.
