@@ -41,6 +41,7 @@
 
 .container {
   border: 5px solid rgba(15, 14, 14, 0.171);
+  background-color: rgb(241, 243, 235);
   padding: 15px;
   display: block;
   margin: auto;
