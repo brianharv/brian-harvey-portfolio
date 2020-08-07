@@ -3,16 +3,21 @@
   font-family: arial;
   font-weight: bold;
 }
+
 .center .column h1 {
   text-decoration: underline;
 }
+
 .center .column p {
   font-weight: normal;
   font-style: italic;
 }
-.center img {
+
+.center .avatar {
+  display: block;
   margin: auto;
   width: 50%;
   border: 3px solid grey;
   padding: 5px;
 }
+
