@@ -1,7 +1,6 @@
 .center .column {
   text-align: center;
-  font-family: arial;
-  font-weight: bold;
+  font-family: arial;;
 }
 
 .center .column h1 {
@@ -21,9 +20,14 @@
   padding: 5px;
 }
 
+.about p {
+  font-weight: normal;
+}
+
 .work {
   text-align: left;
   font-family: sans-serif;
+  font-weight: normal;
 }
 
 .contact {
