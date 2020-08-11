@@ -23,6 +23,7 @@
 
 .about p {
   font-weight: normal;
+  float: left;
 }
 
 .work {

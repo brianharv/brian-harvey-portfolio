@@ -15,7 +15,7 @@ _This is the landing page for my Epicodus portfolio. Users will be able to view 
 * _Bootstrap_
 ## Setup
 
-* _Open index.html in browser_.
+* _Click link to open page on [GitHub Pages](https://brianharv.github.io/brian-harvey-portfolio/)_.
 
 ## Known Bugs
 
